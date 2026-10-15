@@ -4,6 +4,8 @@ A multi-tenant SaaS for restaurants: each restaurant builds a digital menu, prin
 
 > "Bun & Brew Menu" is temporary branding. Change it in [src/config/site.ts](src/config/site.ts).
 
+**Live:** https://whatsapp-ordering-one.vercel.app · **Owner's guide (Roman Urdu: demo script, onboarding, admin tasks, selling):** [docs/GUIDE.md](docs/GUIDE.md)
+
 **Stack:** Next.js 16 (App Router, Server Actions, `proxy.ts`), TypeScript (strict), Tailwind CSS v4, shadcn/ui (Radix), Supabase (Postgres + Auth + Storage), React Hook Form + Zod, `qrcode`, Lucide, Vitest + PGlite. Deploys to Vercel.
 
 ---
