@@ -40,3 +40,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# marketing assets (videos, audio, scripts): kept local, not deployed
+/marketing/

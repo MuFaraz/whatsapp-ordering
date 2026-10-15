@@ -10,14 +10,9 @@ export function LogoMark({ className }: { className?: string }) {
       className={cn("size-8 shrink-0", className)}
     >
       <rect width="32" height="32" rx="9" fill="var(--primary)" />
-      <path d="M8 16.5C8 11.3 11.6 8.5 16 8.5S24 11.3 24 16.5Z" fill="#FFE2BC" />
-      <rect x="7.5" y="18" width="17" height="3" rx="1.5" fill="#5E321A" />
-      <path d="M8.5 22.5H23.5C23.5 24.4 22.4 25 21 25H11C9.6 25 8.5 24.4 8.5 22.5Z" fill="#FFE2BC" />
-      <g fill="var(--primary)">
-        <ellipse cx="13" cy="12.6" rx="1" ry=".55" />
-        <ellipse cx="16.2" cy="11.4" rx="1" ry=".55" />
-        <ellipse cx="19.2" cy="12.8" rx="1" ry=".55" />
-      </g>
+      <path d="M8 8.5h16a2.5 2.5 0 0 1 2.5 2.5v9a2.5 2.5 0 0 1-2.5 2.5h-9l-4.5 3.5v-3.5H8a2.5 2.5 0 0 1-2.5-2.5v-9A2.5 2.5 0 0 1 8 8.5Z" fill="#FFF7EF" />
+      <rect x="9.5" y="12" width="9" height="2" rx="1" fill="var(--primary)" />
+      <rect x="9.5" y="16" width="13" height="2" rx="1" fill="var(--primary)" opacity=".7" />
     </svg>
   );
 }

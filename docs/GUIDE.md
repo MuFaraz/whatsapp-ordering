@@ -1,4 +1,4 @@
-# Bun & Brew Menu: Chalane aur Bechne ki Guide
+# MenuChat (DevFry Solutions): Chalane aur Bechne ki Guide
 
 Ye guide aapke liye hai: system kaise kaam karta hai, client ko demo kaise dena hai, naya restaurant kaise onboard karna hai, aur roz ke admin kaam kaise karne hain.
 
@@ -163,7 +163,7 @@ delete from auth.users where email = 'client@email.com';
 
 - Code badal kar `git push` karein. **Vercel khud deploy kar deta hai** (takreeban 1 minute).
 - Environment variable badla ho to Vercel → Deployments → latest → **Redeploy** karein.
-- Branding (naam "Bun & Brew Menu") badalni ho to `src/config/site.ts` mein badlein.
+- Branding (product "MenuChat", company "DevFry Solutions") badalni ho to `src/config/site.ts` mein badlein.
 - Technical tafseel `README.md` mein hai.
 
 ---

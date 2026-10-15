@@ -1,8 +1,8 @@
-# Bun & Brew Menu
+# MenuChat by DevFry Solutions
 
 A multi-tenant SaaS for restaurants: each restaurant builds a digital menu, prints a QR code for its tables, and customers send their order to the restaurant's WhatsApp. No apps, no commission, no payment processing, no WhatsApp Business API.
 
-> "Bun & Brew Menu" is temporary branding. Change it in [src/config/site.ts](src/config/site.ts).
+> Product branding ("MenuChat") and company name ("DevFry Solutions") live in [src/config/site.ts](src/config/site.ts).
 
 **Live:** https://whatsapp-ordering-one.vercel.app · **Owner's guide (Roman Urdu: demo script, onboarding, admin tasks, selling):** [docs/GUIDE.md](docs/GUIDE.md)
 

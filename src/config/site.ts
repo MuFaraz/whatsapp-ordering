@@ -1,10 +1,16 @@
 /** Product branding. Change these to rebrand the SaaS. */
 export const siteConfig = {
-  name: "Bun & Brew Menu",
-  shortName: "Bun & Brew",
+  name: "MenuChat",
+  shortName: "MenuChat",
   tagline: "QR menus & WhatsApp ordering for restaurants",
   description:
     "Create a beautiful digital menu, print a QR code for every table, and receive orders straight in WhatsApp. No apps, no commission.",
+} as const;
+
+/** The company behind the product (also sells custom websites & apps). */
+export const companyConfig = {
+  name: "DevFry Solutions",
+  services: "Software · Websites · Mobile Apps",
 } as const;
 
 /** The built-in, read-only demo restaurant (served from local data). */

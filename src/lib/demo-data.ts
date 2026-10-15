@@ -17,7 +17,7 @@ export const demoRestaurant: Restaurant = {
   name: "Bun & Brew Café",
   slug: DEMO_SLUG,
   description:
-    "Smash burgers, crispy sides and proper coffee. A fictional café created to demonstrate Bun & Brew Menu.",
+    "Smash burgers, crispy sides and proper coffee. A fictional café created to demonstrate MenuChat.",
   logo_url: "/images/demo/logo.svg",
   cover_url: "/images/demo/cover.svg",
   // Fictional number (555-01xx is reserved for fiction). Demo orders never use
