@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="800" height="600" role="img" aria-label="Hot honey wings illustration">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#FFF8DF"/>
+      <stop offset="1" stop-color="#FFDF8E"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <g opacity=".18" fill="#fff">
+    <circle cx="40" cy="40" r="6"/><circle cx="360" cy="60" r="4"/><circle cx="330" cy="250" r="7"/><circle cx="60" cy="240" r="4"/><circle cx="90" cy="110" r="3"/><circle cx="320" cy="150" r="3"/>
+  </g>
+  <ellipse cx="200" cy="252" rx="130" ry="14" fill="#3b1d0a" opacity=".14"/>
+<ellipse cx="200" cy="200" rx="140" ry="44" fill="#fff"/><ellipse cx="200" cy="196" rx="124" ry="34" fill="#F3EEE6"/>
+    <g fill="#C2501A" stroke="#9A3A10" stroke-width="3">
+    <path d="M110 190 q-6 -44 36 -48 q38 -2 34 34 q-2 26 -30 30 q-34 4 -40 -16Z"/>
+    <path d="M178 176 q-4 -50 40 -50 q40 2 36 38 q-4 28 -36 30 q-36 2 -40 -18Z"/>
+    <path d="M246 192 q-4 -40 34 -44 q34 -2 32 30 q-2 24 -28 28 q-32 4 -38 -14Z"/></g>
+    <g fill="#F4A259" opacity=".65"><ellipse cx="140" cy="160" rx="12" ry="6"/><ellipse cx="212" cy="144" rx="14" ry="6"/><ellipse cx="278" cy="164" rx="10" ry="5"/></g>
+    <g fill="#FFF4DA"><ellipse cx="130" cy="182" rx="3.5" ry="2"/><ellipse cx="160" cy="176" rx="3.5" ry="2"/><ellipse cx="200" cy="160" rx="3.5" ry="2"/><ellipse cx="230" cy="170" rx="3.5" ry="2"/><ellipse cx="270" cy="182" rx="3.5" ry="2"/><ellipse cx="292" cy="176" rx="3.5" ry="2"/><ellipse cx="214" cy="188" rx="3.5" ry="2"/></g>
+</svg>

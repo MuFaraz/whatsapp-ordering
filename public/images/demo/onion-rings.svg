@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="800" height="600" role="img" aria-label="Onion rings illustration">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#FFF8DF"/>
+      <stop offset="1" stop-color="#FFDF8E"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <g opacity=".18" fill="#fff">
+    <circle cx="40" cy="40" r="6"/><circle cx="360" cy="60" r="4"/><circle cx="330" cy="250" r="7"/><circle cx="60" cy="240" r="4"/><circle cx="90" cy="110" r="3"/><circle cx="320" cy="150" r="3"/>
+  </g>
+  <ellipse cx="200" cy="252" rx="130" ry="14" fill="#3b1d0a" opacity=".14"/>
+<g fill="none" stroke-linecap="round">
+    <ellipse cx="160" cy="200" rx="70" ry="34" stroke="#D9902F" stroke-width="22"/><ellipse cx="160" cy="200" rx="70" ry="34" stroke="#F1B958" stroke-width="10" stroke-dasharray="6 10"/>
+    <ellipse cx="240" cy="170" rx="70" ry="34" stroke="#D9902F" stroke-width="22"/><ellipse cx="240" cy="170" rx="70" ry="34" stroke="#F1B958" stroke-width="10" stroke-dasharray="6 10"/>
+    <ellipse cx="190" cy="132" rx="60" ry="28" stroke="#D08427" stroke-width="20"/><ellipse cx="190" cy="132" rx="60" ry="28" stroke="#F1B958" stroke-width="9" stroke-dasharray="6 10"/></g>
+</svg>

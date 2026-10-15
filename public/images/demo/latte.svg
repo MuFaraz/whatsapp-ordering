@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="800" height="600" role="img" aria-label="Spanish latte illustration">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#F6EBE1"/>
+      <stop offset="1" stop-color="#DDBFA3"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <g opacity=".18" fill="#fff">
+    <circle cx="40" cy="40" r="6"/><circle cx="360" cy="60" r="4"/><circle cx="330" cy="250" r="7"/><circle cx="60" cy="240" r="4"/><circle cx="90" cy="110" r="3"/><circle cx="320" cy="150" r="3"/>
+  </g>
+  <ellipse cx="200" cy="252" rx="130" ry="14" fill="#3b1d0a" opacity=".14"/>
+<ellipse cx="200" cy="236" rx="128" ry="22" fill="#fff"/>
+    <path d="M110 120 H290 V170 Q290 236 200 236 Q110 236 110 170Z" fill="#2E86AB"/>
+    <path d="M288 140 q44 0 44 32 q0 32 -48 30" stroke="#2E86AB" stroke-width="14" fill="none"/>
+    <ellipse cx="200" cy="120" rx="90" ry="20" fill="#C8936A"/><ellipse cx="200" cy="120" rx="80" ry="15" fill="#B57B4F"/>
+    <path d="M200 134 q-30 -14 -30 -26 q0 -12 14 -12 q10 0 16 10 q6 -10 16 -10 q14 0 14 12 q0 12 -30 26Z" fill="#F8EBDD"/>
+    <path d="M150 196 h100" stroke="#fff" stroke-width="6" stroke-linecap="round" opacity=".35"/>
+</svg>

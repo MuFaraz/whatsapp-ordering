@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="800" height="600" role="img" aria-label="Caramel iced coffee illustration">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#F6EBE1"/>
+      <stop offset="1" stop-color="#DDBFA3"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <g opacity=".18" fill="#fff">
+    <circle cx="40" cy="40" r="6"/><circle cx="360" cy="60" r="4"/><circle cx="330" cy="250" r="7"/><circle cx="60" cy="240" r="4"/><circle cx="90" cy="110" r="3"/><circle cx="320" cy="150" r="3"/>
+  </g>
+  <ellipse cx="200" cy="252" rx="130" ry="14" fill="#3b1d0a" opacity=".14"/>
+<path d="M150 70 H250 L238 248 H162Z" fill="#fff" opacity=".55"/>
+    <path d="M156 120 H244 L237 246 H163Z" fill="#7B4A2A"/><path d="M155 104 H245 L244 124 H156Z" fill="#E8D2B8"/>
+    <path d="M160 160 q40 14 80 0" stroke="#D99A4E" stroke-width="8" fill="none"/>
+    <g fill="#fff" opacity=".7"><rect x="170" y="128" width="26" height="24" rx="4" transform="rotate(-12 183 140)"/><rect x="204" y="140" width="24" height="22" rx="4" transform="rotate(14 216 151)"/><rect x="186" y="176" width="24" height="22" rx="4" transform="rotate(-6 198 187)"/></g>
+    <rect x="214" y="36" width="10" height="120" rx="5" fill="#E85D75" transform="rotate(14 219 96)"/>
+    <path d="M150 70 H250" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+</svg>

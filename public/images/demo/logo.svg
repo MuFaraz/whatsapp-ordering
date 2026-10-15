@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="320" height="320" role="img" aria-label="Bun &amp; Brew demo logo">
+  <rect width="160" height="160" rx="36" fill="#7A2E10"/>
+  <circle cx="80" cy="80" r="58" fill="#F3A64B"/>
+  <path d="M40 84 Q40 44 80 44 Q120 44 120 84Z" fill="#FFF1D9"/>
+  <rect x="38" y="90" width="84" height="12" rx="6" fill="#5E321A"/>
+  <path d="M42 108 H118 Q118 122 104 122 H56 Q42 122 42 108Z" fill="#FFF1D9"/>
+  <g fill="#F3A64B"><ellipse cx="66" cy="62" rx="4" ry="2"/><ellipse cx="82" cy="56" rx="4" ry="2"/><ellipse cx="96" cy="64" rx="4" ry="2"/></g>
+</svg>

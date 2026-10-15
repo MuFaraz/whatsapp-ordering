@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="800" height="600" role="img" aria-label="Mint lemonade illustration">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#EEF9E6"/>
+      <stop offset="1" stop-color="#C2E7A9"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <g opacity=".18" fill="#fff">
+    <circle cx="40" cy="40" r="6"/><circle cx="360" cy="60" r="4"/><circle cx="330" cy="250" r="7"/><circle cx="60" cy="240" r="4"/><circle cx="90" cy="110" r="3"/><circle cx="320" cy="150" r="3"/>
+  </g>
+  <ellipse cx="200" cy="252" rx="130" ry="14" fill="#3b1d0a" opacity=".14"/>
+<path d="M146 76 H254 L240 248 H160Z" fill="#fff" opacity=".5"/>
+    <path d="M150 104 H250 L240 246 H160Z" fill="#D7EC8A"/>
+    <g fill="#fff" opacity=".75"><rect x="168" y="120" width="26" height="24" rx="4" transform="rotate(-12 181 132)"/><rect x="206" y="136" width="24" height="22" rx="4" transform="rotate(14 218 147)"/></g>
+    <g fill="#3E9E4D"><path d="M176 186 q-20 -20 0 -40 q20 20 0 40Z"/><path d="M214 206 q-24 -10 -16 -36 q24 10 16 36Z"/><path d="M196 226 q-16 -16 4 -32 q14 18 -4 32Z"/></g>
+    <circle cx="252" cy="92" r="30" fill="#F9D923"/><circle cx="252" cy="92" r="24" fill="#FBEA7A"/>
+    <path d="M252 68 V116 M228 92 H276 M235 75 L269 109 M269 75 L235 109" stroke="#F9D923" stroke-width="3"/>
+    <path d="M146 76 H254" stroke="#fff" stroke-width="6" stroke-linecap="round"/>
+</svg>

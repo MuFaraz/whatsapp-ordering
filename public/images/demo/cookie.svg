@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="800" height="600" role="img" aria-label="Chocolate chip cookie illustration">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#F8ECE4"/>
+      <stop offset="1" stop-color="#E7C2AB"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <g opacity=".18" fill="#fff">
+    <circle cx="40" cy="40" r="6"/><circle cx="360" cy="60" r="4"/><circle cx="330" cy="250" r="7"/><circle cx="60" cy="240" r="4"/><circle cx="90" cy="110" r="3"/><circle cx="320" cy="150" r="3"/>
+  </g>
+  <ellipse cx="200" cy="252" rx="130" ry="14" fill="#3b1d0a" opacity=".14"/>
+<circle cx="200" cy="166" r="88" fill="#D9A15B"/><circle cx="200" cy="166" r="80" fill="#E5B26E"/>
+    <g fill="#4A2617"><path d="M160 130 l9 -4 l6 8 l-6 8 l-10 -3Z"/><path d="M210 116 l9 -4 l6 8 l-6 8 l-10 -3Z"/><path d="M245 150 l9 -4 l6 8 l-6 8 l-10 -3Z"/><path d="M180 180 l9 -4 l6 8 l-6 8 l-10 -3Z"/><path d="M232 200 l9 -4 l6 8 l-6 8 l-10 -3Z"/><path d="M150 190 l9 -4 l6 8 l-6 8 l-10 -3Z"/><path d="M204 222 l9 -4 l6 8 l-6 8 l-10 -3Z"/><path d="M262 180 l9 -4 l6 8 l-6 8 l-10 -3Z"/><path d="M140 150 l9 -4 l6 8 l-6 8 l-10 -3Z"/></g>
+    <path d="M140 116 q30 -26 70 -24" stroke="#F2C98A" stroke-width="8" fill="none" stroke-linecap="round" opacity=".7"/>
+</svg>

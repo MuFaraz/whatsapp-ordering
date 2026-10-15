@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="800" height="600" role="img" aria-label="Mango cheesecake slice illustration">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#F8ECE4"/>
+      <stop offset="1" stop-color="#E7C2AB"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <g opacity=".18" fill="#fff">
+    <circle cx="40" cy="40" r="6"/><circle cx="360" cy="60" r="4"/><circle cx="330" cy="250" r="7"/><circle cx="60" cy="240" r="4"/><circle cx="90" cy="110" r="3"/><circle cx="320" cy="150" r="3"/>
+  </g>
+  <ellipse cx="200" cy="252" rx="130" ry="14" fill="#3b1d0a" opacity=".14"/>
+<ellipse cx="200" cy="226" rx="140" ry="28" fill="#fff"/>
+    <path d="M110 200 L290 160 L290 212 L110 238Z" fill="#F8E7C2"/><path d="M110 226 L290 196 L290 212 L110 238Z" fill="#B9773D"/>
+    <path d="M110 200 L290 160 L250 132 Z" fill="#FFF3DA"/>
+    <path d="M110 200 L250 132 L290 160 Z" fill="#FFB627" opacity=".85"/>
+    <path d="M140 188 q30 -14 60 -30 q30 -16 50 -20" stroke="#FF9F1C" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <g fill="#3E9E4D"><path d="M262 138 q10 -20 30 -18 q-8 20 -30 18Z"/></g>
+</svg>

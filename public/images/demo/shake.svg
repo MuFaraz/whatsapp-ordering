@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="800" height="600" role="img" aria-label="Milkshake illustration">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#FFEFF4"/>
+      <stop offset="1" stop-color="#F6C3D3"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <g opacity=".18" fill="#fff">
+    <circle cx="40" cy="40" r="6"/><circle cx="360" cy="60" r="4"/><circle cx="330" cy="250" r="7"/><circle cx="60" cy="240" r="4"/><circle cx="90" cy="110" r="3"/><circle cx="320" cy="150" r="3"/>
+  </g>
+  <ellipse cx="200" cy="252" rx="130" ry="14" fill="#3b1d0a" opacity=".14"/>
+<path d="M146 100 H254 L240 246 H160Z" fill="#fff" opacity=".6"/>
+    <path d="M150 116 H250 L240 244 H160Z" fill="#E9B98F"/><path d="M152 140 q48 18 96 0" stroke="#A9652E" stroke-width="7" fill="none"/>
+    <path d="M140 104 q0 -30 30 -30 q6 -26 30 -26 q24 0 30 26 q30 0 30 30Z" fill="#FFF8EE"/>
+    <circle cx="200" cy="38" r="12" fill="#D7263D"/><path d="M200 26 q8 -16 22 -18" stroke="#3E7C17" stroke-width="3" fill="none"/>
+    <rect x="222" y="18" width="10" height="110" rx="5" fill="#2E86AB" transform="rotate(18 227 73)"/>
+    <g fill="#A9652E"><rect x="168" y="80" width="10" height="4" rx="2" transform="rotate(30 173 82)"/><rect x="214" y="86" width="10" height="4" rx="2" transform="rotate(-20 219 88)"/><rect x="190" y="70" width="10" height="4" rx="2"/></g>
+</svg>

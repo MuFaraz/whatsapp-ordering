@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="800" height="600" role="img" aria-label="Fries illustration">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#FFF8DF"/>
+      <stop offset="1" stop-color="#FFDF8E"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <g opacity=".18" fill="#fff">
+    <circle cx="40" cy="40" r="6"/><circle cx="360" cy="60" r="4"/><circle cx="330" cy="250" r="7"/><circle cx="60" cy="240" r="4"/><circle cx="90" cy="110" r="3"/><circle cx="320" cy="150" r="3"/>
+  </g>
+  <ellipse cx="200" cy="252" rx="130" ry="14" fill="#3b1d0a" opacity=".14"/>
+<g fill="#F7C948" stroke="#E0A422" stroke-width="2">
+    <rect x="140" y="62" width="16" height="110" rx="4" transform="rotate(-12 148 120)"/>
+    <rect x="164" y="50" width="16" height="120" rx="4" transform="rotate(-5 172 110)"/>
+    <rect x="188" y="44" width="16" height="125" rx="4"/>
+    <rect x="212" y="52" width="16" height="118" rx="4" transform="rotate(6 220 110)"/>
+    <rect x="236" y="62" width="16" height="110" rx="4" transform="rotate(13 244 120)"/>
+    <rect x="176" y="70" width="16" height="100" rx="4" transform="rotate(14 184 120)"/>
+    <rect x="206" y="72" width="16" height="100" rx="4" transform="rotate(-14 214 120)"/></g>
+    <path d="M124 128 H276 L258 246 H142Z" fill="#E23D3D"/><path d="M124 128 H276 L272 152 H128Z" fill="#C42E2E"/>
+    <circle cx="200" cy="196" r="22" fill="#fff" opacity=".92"/><path d="M190 196 q10 -14 20 0 q-10 14 -20 0" fill="#E23D3D"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="800" height="600" role="img" aria-label="Molten brownie illustration">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="75%">
+      <stop offset="0" stop-color="#F8ECE4"/>
+      <stop offset="1" stop-color="#E7C2AB"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg)"/>
+  <g opacity=".18" fill="#fff">
+    <circle cx="40" cy="40" r="6"/><circle cx="360" cy="60" r="4"/><circle cx="330" cy="250" r="7"/><circle cx="60" cy="240" r="4"/><circle cx="90" cy="110" r="3"/><circle cx="320" cy="150" r="3"/>
+  </g>
+  <ellipse cx="200" cy="252" rx="130" ry="14" fill="#3b1d0a" opacity=".14"/>
+<ellipse cx="200" cy="222" rx="140" ry="30" fill="#fff"/>
+    <path d="M110 160 L260 150 L292 200 L142 214Z" fill="#4A2617"/><path d="M110 160 L142 214 L142 238 L110 182Z" fill="#331A0F"/><path d="M142 214 L292 200 L292 222 L142 238Z" fill="#3A1D11"/>
+    <path d="M120 162 L258 152 L270 168 L134 178Z" fill="#6B3A22" opacity=".6"/>
+    <circle cx="232" cy="140" r="34" fill="#FFF5E1"/><circle cx="214" cy="128" r="8" fill="#fff"/>
+    <path d="M206 168 q10 20 20 4 q10 18 22 -2" stroke="#6B2E12" stroke-width="7" fill="none" stroke-linecap="round"/>
+    <circle cx="246" cy="112" r="6" fill="#D7263D"/>
+</svg>
