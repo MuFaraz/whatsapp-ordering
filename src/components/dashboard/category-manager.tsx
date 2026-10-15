@@ -32,6 +32,7 @@ import { LIMITS } from "@/config/site";
 import { categorySchema, type CategoryInput } from "@/lib/validation";
 import type { MenuCategory } from "@/types/database";
 import { PageHeader } from "./dashboard-shell";
+import { clearNewParam } from "./clear-new-param";
 import { useDashboardOps, type DeleteCategoryOptions } from "./ops-context";
 
 type Props = {
@@ -180,7 +181,10 @@ export function CategoryManager({ initialCategories, initialCounts, autoOpenNew 
       <CategoryDialog
         key={editing === "new" ? "new" : (editing?.id ?? "closed")}
         category={editing}
-        onClose={() => setEditing(null)}
+        onClose={() => {
+          setEditing(null);
+          clearNewParam();
+        }}
         onSaved={(saved, isNew) => {
           setCategories((list) =>
             isNew

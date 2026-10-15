@@ -47,6 +47,7 @@ import { formatPrice } from "@/lib/money";
 import { menuItemSchema, type MenuItemInput } from "@/lib/validation";
 import type { Currency, MenuCategory, MenuItem } from "@/types/database";
 import { PageHeader } from "./dashboard-shell";
+import { clearNewParam } from "./clear-new-param";
 import { useDashboardOps } from "./ops-context";
 
 type AvailabilityFilter = "all" | "available" | "unavailable";
@@ -359,7 +360,10 @@ export function MenuManager({
         categories={categories}
         currency={currency}
         defaultCategoryId={categoryFilter !== "all" ? categoryFilter : categories[0]?.id}
-        onClose={() => setEditing(null)}
+        onClose={() => {
+          setEditing(null);
+          clearNewParam();
+        }}
         onSaved={(saved, isNew) =>
           setItems((list) =>
             isNew
